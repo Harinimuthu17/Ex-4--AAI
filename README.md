@@ -1,6 +1,6 @@
 <H5> Name :M.Harini </H5>
 <H5>Register No.: 212222240035 </H5>
-<H5> Experiment: 4 </H5>
+<H5> Experiment:04 </H5>
 <H5> DATE: 17.09.24</H5>
 
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
